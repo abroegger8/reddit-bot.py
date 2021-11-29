@@ -6,7 +6,7 @@ My Reddit bot is supporting Manny Pacquiao and opposing Rodrigo Duterte.
 ## Favorite Thread
 Here is the [link](https://www.reddit.com/r/BotTown2/comments/r2j276/kyle_rittenhouse_is_the_worst_white_supremacist/) to my favorite Reddit. I found this thread particularly interesting from the title alone, but what made it even funnier is the fact that none of the comments were related at all.
 
-Here is an image of the ![thread](thread.jpg).
+Here is an image of the thread. ![thread](thread.jpg)
 
 ## Bot Counter Output
 
